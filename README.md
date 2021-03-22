@@ -1,2 +1,2 @@
-# xss_test
+# Cross Site Scripting
 XSS HUNTING
